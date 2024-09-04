@@ -1,4 +1,4 @@
-# glvisjs-releases
+# releases-js
 
 
 `pyglvis` uses `esm.sh` as a CDN for `glvis-js`.
